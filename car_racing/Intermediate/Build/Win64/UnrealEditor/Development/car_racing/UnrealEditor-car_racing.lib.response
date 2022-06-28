@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-car_racing.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\car_racingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\car_racing.cpp.obj"
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\car_racingGameModeBase.cpp.obj"
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\car_racing.init.gen.cpp.obj"
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\car_racingGameModeBase.gen.cpp.obj"
+"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\Default.rc2.res"
+/OUT:"C:\Users\smite\Documents\Unreal Projects\car_racing\Intermediate\Build\Win64\UnrealEditor\Development\car_racing\UnrealEditor-car_racing.lib"

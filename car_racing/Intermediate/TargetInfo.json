@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "car_racing",
+			"Path": "C:\\Users\\smite\\Documents\\Unreal Projects\\car_racing\\Source\\car_racing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "car_racingEditor",
+			"Path": "C:\\Users\\smite\\Documents\\Unreal Projects\\car_racing\\Source\\car_racingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\unrealeditor\\inc\\car_racing\\car_racinggamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\car_racingeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\unrealeditor\\development\\car_racing\\definitions.car_racing.h",
+            "c:\\users\\smite\\documents\\unreal projects\\car_racing\\source\\car_racing\\car_racinggamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\unrealeditor\\inc\\car_racing\\car_racinggamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

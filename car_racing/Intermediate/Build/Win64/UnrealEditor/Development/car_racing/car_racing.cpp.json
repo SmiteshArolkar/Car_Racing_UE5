@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\smite\\documents\\unreal projects\\car_racing\\source\\car_racing\\car_racing.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\car_racingeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\smite\\documents\\unreal projects\\car_racing\\intermediate\\build\\win64\\unrealeditor\\development\\car_racing\\definitions.car_racing.h",
+            "c:\\users\\smite\\documents\\unreal projects\\car_racing\\source\\car_racing\\car_racing.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
